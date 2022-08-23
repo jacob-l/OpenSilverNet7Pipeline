@@ -1,6 +1,5 @@
 name: Build OpenSilver App
 
-env:
 on:
   push:
     branches:
